@@ -3,4 +3,4 @@
 > test
 
 
-**tips:**需要chrome开发模式下打包
+需要chrome开发模式下打包
